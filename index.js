@@ -6,7 +6,7 @@ const resolvers = {
         reviews() {
             return [{
                 rating: "any rating ",
-                content: 'Kate Chopin',
+                content: 'any content',
             }]
         },
         games() {
