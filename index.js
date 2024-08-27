@@ -8,6 +8,17 @@ const resolvers = {
                 rating: "cgncgn",
                 content: 'Kate Chopin',
             }]
+        },
+        games() {
+            return [{
+                name: "adil gamesss",
+            },
+            {
+                name: "adil gas",
+            },
+            {
+                name: "adsss",
+            },]
         }
     }
 }
