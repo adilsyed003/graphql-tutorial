@@ -5,13 +5,13 @@ const resolvers = {
     Query: {
         reviews() {
             return [{
-                rating: "anyy game",
+                rating: "cgncgn",
                 content: 'Kate Chopin',
             }]
         },
         games() {
             return [{
-                name: "adil gamesss",
+                name: "any gamesss",
             },
             {
                 name: "adil gas",
