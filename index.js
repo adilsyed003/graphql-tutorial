@@ -5,7 +5,7 @@ const resolvers = {
     Query: {
         reviews() {
             return [{
-                rating: "cgncgn",
+                rating: "any games",
                 content: 'Kate Chopin',
             }]
         },
