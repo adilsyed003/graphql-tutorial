@@ -14,7 +14,7 @@ const resolvers = {
                 name: "any gamesss",
             },
             {
-                name: "adil gas",
+                name: "adil game",
             },
             {
                 name: "adsss",
